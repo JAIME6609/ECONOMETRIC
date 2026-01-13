@@ -1,0 +1,5 @@
+subset,dim,n_features,total_persistence,mean_lifetime,persistence_entropy,H1_wasserstein_normal_vs_anom,H1_bottleneck_normal_vs_anom,NOTE
+normal,0,77,124.8852,1.6432,4.2811,4.6209,0.4772,
+normal,1,21,6.5288,0.3109,2.7214,4.6209,0.4772,
+anomalous,0,43,80.7616,1.9229,3.6201,4.6209,0.4772,
+anomalous,1,5,0.4119,0.0824,0.6895,4.6209,0.4772,

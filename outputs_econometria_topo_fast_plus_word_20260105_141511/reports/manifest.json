@@ -1,0 +1,357 @@
+{
+  "created_at_unix": 1767644111.2111473,
+  "environment": {
+    "TF_AVAILABLE": true,
+    "TDA_AVAILABLE": true,
+    "WASSERSTEIN_AVAILABLE": true,
+    "BOTTLENECK_AVAILABLE": true,
+    "JOBLIB_AVAILABLE": true
+  },
+  "figures": [
+    {
+      "path": "outputs_econometria_topo_fast_plus_word_20260105_141511\\figures\\rf_roc.png",
+      "type": "plot",
+      "status": "real"
+    },
+    {
+      "path": "outputs_econometria_topo_fast_plus_word_20260105_141511\\figures\\rf_pr.png",
+      "type": "plot",
+      "status": "real"
+    },
+    {
+      "path": "outputs_econometria_topo_fast_plus_word_20260105_141511\\figures\\rf_calibration.png",
+      "type": "plot",
+      "status": "real"
+    },
+    {
+      "path": "outputs_econometria_topo_fast_plus_word_20260105_141511\\figures\\rf_confusion.png",
+      "type": "plot",
+      "status": "real"
+    },
+    {
+      "path": "outputs_econometria_topo_fast_plus_word_20260105_141511\\figures\\rf_score_dist.png",
+      "type": "plot",
+      "status": "real"
+    },
+    {
+      "path": "outputs_econometria_topo_fast_plus_word_20260105_141511\\figures\\logreg_roc.png",
+      "type": "plot",
+      "status": "real"
+    },
+    {
+      "path": "outputs_econometria_topo_fast_plus_word_20260105_141511\\figures\\logreg_pr.png",
+      "type": "plot",
+      "status": "real"
+    },
+    {
+      "path": "outputs_econometria_topo_fast_plus_word_20260105_141511\\figures\\logreg_calibration.png",
+      "type": "plot",
+      "status": "real"
+    },
+    {
+      "path": "outputs_econometria_topo_fast_plus_word_20260105_141511\\figures\\logreg_confusion.png",
+      "type": "plot",
+      "status": "real"
+    },
+    {
+      "path": "outputs_econometria_topo_fast_plus_word_20260105_141511\\figures\\logreg_score_dist.png",
+      "type": "plot",
+      "status": "real"
+    },
+    {
+      "path": "outputs_econometria_topo_fast_plus_word_20260105_141511\\figures\\deep_roc.png",
+      "type": "plot",
+      "status": "real"
+    },
+    {
+      "path": "outputs_econometria_topo_fast_plus_word_20260105_141511\\figures\\deep_pr.png",
+      "type": "plot",
+      "status": "real"
+    },
+    {
+      "path": "outputs_econometria_topo_fast_plus_word_20260105_141511\\figures\\deep_calibration.png",
+      "type": "plot",
+      "status": "real"
+    },
+    {
+      "path": "outputs_econometria_topo_fast_plus_word_20260105_141511\\figures\\deep_confusion.png",
+      "type": "plot",
+      "status": "real"
+    },
+    {
+      "path": "outputs_econometria_topo_fast_plus_word_20260105_141511\\figures\\deep_score_dist.png",
+      "type": "plot",
+      "status": "real"
+    },
+    {
+      "path": "outputs_econometria_topo_fast_plus_word_20260105_141511\\figures\\model_comparison_auc_roc.png",
+      "type": "plot",
+      "status": "real"
+    },
+    {
+      "path": "outputs_econometria_topo_fast_plus_word_20260105_141511\\figures\\model_comparison_auc_pr.png",
+      "type": "plot",
+      "status": "real"
+    },
+    {
+      "path": "outputs_econometria_topo_fast_plus_word_20260105_141511\\figures\\model_comparison_brier.png",
+      "type": "plot",
+      "status": "real"
+    },
+    {
+      "path": "outputs_econometria_topo_fast_plus_word_20260105_141511\\figures\\deep_threshold_sweep.png",
+      "type": "plot",
+      "status": "real"
+    },
+    {
+      "path": "outputs_econometria_topo_fast_plus_word_20260105_141511\\figures\\deep_bestf1_confusion.png",
+      "type": "plot",
+      "status": "real"
+    },
+    {
+      "path": "outputs_econometria_topo_fast_plus_word_20260105_141511\\figures\\deep_latent_all_pca2d.png",
+      "type": "plot",
+      "status": "real"
+    },
+    {
+      "path": "outputs_econometria_topo_fast_plus_word_20260105_141511\\figures\\deep_latent_all_tsne2d.png",
+      "type": "plot",
+      "status": "real"
+    },
+    {
+      "path": "outputs_econometria_topo_fast_plus_word_20260105_141511\\figures\\rf_perm_importance_top.png",
+      "type": "plot",
+      "status": "real"
+    },
+    {
+      "path": "outputs_econometria_topo_fast_plus_word_20260105_141511\\figures\\LATENT_ALL_NORMAL_VS_ANOM_tda_diagrams_normal.png",
+      "type": "plot",
+      "status": "real"
+    },
+    {
+      "path": "outputs_econometria_topo_fast_plus_word_20260105_141511\\figures\\LATENT_ALL_NORMAL_VS_ANOM_tda_diagrams_anomalous.png",
+      "type": "plot",
+      "status": "real"
+    },
+    {
+      "path": "outputs_econometria_topo_fast_plus_word_20260105_141511\\figures\\LATENT_ALL_NORMAL_VS_ANOM_betti_normal.png",
+      "type": "plot",
+      "status": "real"
+    },
+    {
+      "path": "outputs_econometria_topo_fast_plus_word_20260105_141511\\figures\\LATENT_ALL_NORMAL_VS_ANOM_betti_anomalous.png",
+      "type": "plot",
+      "status": "real"
+    },
+    {
+      "path": "outputs_econometria_topo_fast_plus_word_20260105_141511\\figures\\SELFGEN_SELECTED_PROXY_tda_diagrams_normal.png",
+      "type": "plot",
+      "status": "real"
+    },
+    {
+      "path": "outputs_econometria_topo_fast_plus_word_20260105_141511\\figures\\SELFGEN_SELECTED_PROXY_tda_diagrams_anomalous.png",
+      "type": "plot",
+      "status": "real"
+    },
+    {
+      "path": "outputs_econometria_topo_fast_plus_word_20260105_141511\\figures\\SELFGEN_SELECTED_PROXY_betti_normal.png",
+      "type": "plot",
+      "status": "real"
+    },
+    {
+      "path": "outputs_econometria_topo_fast_plus_word_20260105_141511\\figures\\SELFGEN_SELECTED_PROXY_betti_anomalous.png",
+      "type": "plot",
+      "status": "real"
+    },
+    {
+      "path": "outputs_econometria_topo_fast_plus_word_20260105_141511\\figures\\tda_time_evolution_latent_all_H1_total_persistence.png",
+      "type": "plot",
+      "status": "real"
+    },
+    {
+      "path": "outputs_econometria_topo_fast_plus_word_20260105_141511\\figures\\tda_time_evolution_latent_all_H1_wasserstein.png",
+      "type": "plot",
+      "status": "real"
+    }
+  ],
+  "reports": [
+    {
+      "path": "outputs_econometria_topo_fast_plus_word_20260105_141511\\reports\\run_info.txt",
+      "type": "txt",
+      "status": "real"
+    },
+    {
+      "path": "outputs_econometria_topo_fast_plus_word_20260105_141511\\reports\\model_metrics.csv",
+      "type": "csv",
+      "status": "real"
+    },
+    {
+      "path": "outputs_econometria_topo_fast_plus_word_20260105_141511\\reports\\report_rf.csv",
+      "type": "csv",
+      "status": "real"
+    },
+    {
+      "path": "outputs_econometria_topo_fast_plus_word_20260105_141511\\reports\\report_logreg.csv",
+      "type": "csv",
+      "status": "real"
+    },
+    {
+      "path": "outputs_econometria_topo_fast_plus_word_20260105_141511\\reports\\report_deep.csv",
+      "type": "csv",
+      "status": "real"
+    },
+    {
+      "path": "outputs_econometria_topo_fast_plus_word_20260105_141511\\reports\\test_predictions_primary.csv",
+      "type": "csv",
+      "status": "real"
+    },
+    {
+      "path": "outputs_econometria_topo_fast_plus_word_20260105_141511\\reports\\windows_index.csv",
+      "type": "csv",
+      "status": "real"
+    },
+    {
+      "path": "outputs_econometria_topo_fast_plus_word_20260105_141511\\reports\\threshold_sweep_deep.csv",
+      "type": "csv",
+      "status": "real"
+    },
+    {
+      "path": "outputs_econometria_topo_fast_plus_word_20260105_141511\\reports\\best_threshold.csv",
+      "type": "csv",
+      "status": "real"
+    },
+    {
+      "path": "outputs_econometria_topo_fast_plus_word_20260105_141511\\reports\\deep_latent.csv",
+      "type": "csv",
+      "status": "real"
+    },
+    {
+      "path": "outputs_econometria_topo_fast_plus_word_20260105_141511\\reports\\deep_recon_error.csv",
+      "type": "csv",
+      "status": "real"
+    },
+    {
+      "path": "outputs_econometria_topo_fast_plus_word_20260105_141511\\reports\\deep_training_history.csv",
+      "type": "csv",
+      "status": "real"
+    },
+    {
+      "path": "outputs_econometria_topo_fast_plus_word_20260105_141511\\reports\\deep_epoch_monitoring.csv",
+      "type": "csv",
+      "status": "real"
+    },
+    {
+      "path": "outputs_econometria_topo_fast_plus_word_20260105_141511\\reports\\deep_recon_examples.csv",
+      "type": "csv",
+      "status": "real"
+    },
+    {
+      "path": "outputs_econometria_topo_fast_plus_word_20260105_141511\\reports\\tda_over_epochs_latent.csv",
+      "type": "csv",
+      "status": "real"
+    },
+    {
+      "path": "outputs_econometria_topo_fast_plus_word_20260105_141511\\reports\\rf_perm_importance.csv",
+      "type": "csv",
+      "status": "real"
+    },
+    {
+      "path": "outputs_econometria_topo_fast_plus_word_20260105_141511\\reports\\selfgen_verified_scored.csv",
+      "type": "csv",
+      "status": "real"
+    },
+    {
+      "path": "outputs_econometria_topo_fast_plus_word_20260105_141511\\reports\\tda_latent_normal_vs_anom_summary.csv",
+      "type": "csv",
+      "status": "real"
+    },
+    {
+      "path": "outputs_econometria_topo_fast_plus_word_20260105_141511\\reports\\tda_latent_normal_vs_anom_betti.csv",
+      "type": "csv",
+      "status": "real"
+    },
+    {
+      "path": "outputs_econometria_topo_fast_plus_word_20260105_141511\\reports\\tda_selfgen_selected_summary.csv",
+      "type": "csv",
+      "status": "real"
+    },
+    {
+      "path": "outputs_econometria_topo_fast_plus_word_20260105_141511\\reports\\tda_selfgen_selected_betti.csv",
+      "type": "csv",
+      "status": "real"
+    },
+    {
+      "path": "outputs_econometria_topo_fast_plus_word_20260105_141511\\reports\\tda_time_evolution_latent_all.csv",
+      "type": "csv",
+      "status": "real"
+    },
+    {
+      "path": "outputs_econometria_topo_fast_plus_word_20260105_141511\\reports\\artifact_index.csv",
+      "type": "csv",
+      "status": "real"
+    },
+    {
+      "path": "outputs_econometria_topo_fast_plus_word_20260105_141511\\reports\\report_tables.xlsx",
+      "type": "excel",
+      "status": "real"
+    },
+    {
+      "path": "outputs_econometria_topo_fast_plus_word_20260105_141511\\reports\\summary.json",
+      "type": "json",
+      "status": "real"
+    }
+  ],
+  "models": [
+    {
+      "path": "outputs_econometria_topo_fast_plus_word_20260105_141511\\models\\config_snapshot.json",
+      "type": "json",
+      "status": "real"
+    },
+    {
+      "path": "outputs_econometria_topo_fast_plus_word_20260105_141511\\models\\scaler.joblib",
+      "type": "joblib",
+      "status": "real",
+      "name": "scaler"
+    },
+    {
+      "path": "outputs_econometria_topo_fast_plus_word_20260105_141511\\models\\pca_proxy.joblib",
+      "type": "joblib",
+      "status": "real",
+      "name": "pca_proxy"
+    },
+    {
+      "path": "outputs_econometria_topo_fast_plus_word_20260105_141511\\models\\rf_model.joblib",
+      "type": "joblib",
+      "status": "real",
+      "name": "rf_model"
+    },
+    {
+      "path": "outputs_econometria_topo_fast_plus_word_20260105_141511\\models\\logreg_model.joblib",
+      "type": "joblib",
+      "status": "real",
+      "name": "logreg_model"
+    },
+    {
+      "path": "outputs_econometria_topo_fast_plus_word_20260105_141511\\models\\deep_multitask_model.keras",
+      "type": "joblib",
+      "status": "real",
+      "name": "deep_fallback_models"
+    },
+    {
+      "path": "outputs_econometria_topo_fast_plus_word_20260105_141511\\models\\deep_multitask_model.keras",
+      "type": "joblib",
+      "status": "ok",
+      "name": "deep_fallback_models"
+    },
+    {
+      "path": "outputs_econometria_topo_fast_plus_word_20260105_141511\\models\\encoder.keras",
+      "type": "text",
+      "status": "note",
+      "note": "Encoder not saved (fallback deep pipeline)."
+    }
+  ],
+  "notes": [
+    "Deep model fallback used due to: Expected any non-tensor type, but got a tensor instead.",
+    "Deep fallback models saved to deep_multitask_model.keras via joblib."
+  ]
+}

@@ -1,0 +1,9 @@
+epoch,train_recon_mse,val_recon_mse,train_auc_roc_sub,train_auc_pr_sub,val_auc_roc_sub,val_auc_pr_sub,NOTE
+1,1.99778,1.35624,0.89820,0.78734,0.80625,0.62626,fallback_sklearn
+2,1.94649,1.32576,0.89574,0.78336,0.80625,0.67049,fallback_sklearn
+3,1.89757,1.29662,0.89266,0.77675,0.80625,0.67049,fallback_sklearn
+4,1.85102,1.26887,0.88862,0.76839,0.79375,0.65090,fallback_sklearn
+5,1.80675,1.24233,0.88571,0.76139,0.79375,0.65090,fallback_sklearn
+6,1.76455,1.21710,0.88114,0.75541,0.79375,0.65090,fallback_sklearn
+7,1.72445,1.19329,0.87719,0.75098,0.79375,0.60382,fallback_sklearn
+8,1.68632,1.17101,0.87200,0.74331,0.78125,0.58888,fallback_sklearn

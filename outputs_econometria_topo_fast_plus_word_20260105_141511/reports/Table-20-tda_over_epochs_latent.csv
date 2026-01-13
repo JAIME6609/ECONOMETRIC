@@ -1,0 +1,9 @@
+epoch,dim,n_features,total_persistence,mean_lifetime,persistence_entropy,NOTE
+1,0,0,1.9978,1.3562,0.8982,proxy_fallback_sklearn
+2,0,0,1.9465,1.3258,0.8957,proxy_fallback_sklearn
+3,0,0,1.8976,1.2966,0.8927,proxy_fallback_sklearn
+4,0,0,1.8510,1.2689,0.8886,proxy_fallback_sklearn
+5,0,0,1.8067,1.2423,0.8857,proxy_fallback_sklearn
+6,0,0,1.7646,1.2171,0.8811,proxy_fallback_sklearn
+7,0,0,1.7245,1.1933,0.8772,proxy_fallback_sklearn
+8,0,0,1.6863,1.1710,0.8720,proxy_fallback_sklearn

@@ -1,0 +1,17 @@
+ECONOMETRIA TOPO FAST-FULL-PLUS (WORD-ALIGNED) — SAVE EVERYTHING EDITION
+Primary model: DEEP
+Temporal split: True
+Windows total: 248
+Train windows: 186
+Test windows:  62
+Anomaly rate (window): 0.229839
+Runtime (sec): 34.83
+TF_AVAILABLE: True
+TDA_AVAILABLE: True
+WASSERSTEIN_AVAILABLE: True
+BOTTLENECK_AVAILABLE: True
+JOBLIB_AVAILABLE: True
+
+NOTES:
+- Deep model fallback used due to: Expected any non-tensor type, but got a tensor instead.
+- Deep fallback models saved to deep_multitask_model.keras via joblib.
